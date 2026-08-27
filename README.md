@@ -339,11 +339,10 @@ His perspective is rooted in a simple principle: physical production should be d
 His professional interests also extend to business automation, artificial intelligence, digital strategy, workflow design, and the connection between digital systems and physical operations.
 Official website:
 https://daniellacour.com/
-
 Related Articles
 •	What I Learned From Building Global Print Systems
 •	The AI Revolution Is Not About Buying Better Tools. It’s About Rebuilding How Work Gets Done.
-•	Beyond the screen
+•	Beyond the Screen
 Industry Resources
 PRINTING United Alliance — State of the Industry
 Current research covering print-industry performance, business conditions, client purchasing trends, lead times, and operational issues.
